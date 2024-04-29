@@ -1,3 +1,5 @@
+
+`
 /vector-db-project/
 │
 ├── data/
@@ -23,3 +25,4 @@
 │
 └── config/
     └── config.yml       # Configuration files (e.g., paths, model settings)
+`
